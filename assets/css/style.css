@@ -1,0 +1,44 @@
+/*Estilos da página index.html*/
+.center {
+   text-align: center;
+    }
+
+    .justify{
+        text-align: justify;
+    }
+
+    .container {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+    }
+
+    #menu li{
+        display: inline;
+        padding: 8px;
+        text-decoration: none;
+    }
+
+    #menu li a{
+        text-decoration: none;
+        color:black;
+        font-size: 18px;
+    }
+
+    #menu li a:hover{
+        color: blueviolet;
+    }
+    
+    .tm-social {
+        width: 40px;
+        height: 40px;
+        padding: 5px;
+    }
+     
+    .mb-50{
+     margin-bottom: 50px;  
+    }
+    
+/*Estilo da pagina contato.html*/
+
+
